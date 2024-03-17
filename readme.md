@@ -21,7 +21,3 @@ Este proyecto utiliza Redis para almacenar en caché las consultas a la base de 
 ## Contribuir
 
 Si deseas contribuir a este proyecto, por favor realiza un 'fork' del repositorio y envía un 'pull request'.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
